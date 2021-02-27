@@ -1,0 +1,59 @@
+.line {
+  margin-top: 0px;
+}
+.information {
+  width: 100%;
+  margin-right: 0px;
+  margin-left: 0px;
+  padding: 1rem;
+}
+
+.header {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0.5rem;
+
+}
+
+.title-modal {
+  //   justify-content: space-between;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.24);
+}
+.title-info {
+  margin-bottom: 0px;
+  color: #202124;
+}
+
+.button-modal {
+  margin: 0.5rem !important;
+}
+.help {
+  display: flex;
+  align-items: center;
+  img {
+    height: 1.5rem;
+  }
+}
+.button-close {
+  background: none;
+  border: none;
+  img {
+    height: 1.5rem;
+  }
+}
+.logo-yinn-modal {
+  height: 100%;
+}
+.logo-yinn {
+  height: 100%;
+  width: 6rem;
+}
+.left-modal {
+  display: flex;
+}
+.info-icon {
+  margin-left: 0.2rem;
+}
